@@ -1,4 +1,3 @@
-![earlybirdpegasausrusbadge](https://user-images.githubusercontent.com/113434018/194059414-b3253d4b-b25a-460c-965b-8f7935d24f72.png)
 - 👋 Hi, I’m @astitva0011
 - 👀 I’m interested in ...learning new programming languages/Opensource contribution
 - 🌱 I’m currently learning ...How to contribute to an open source project/Git
