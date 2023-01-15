@@ -23,8 +23,8 @@ Tech Stack
 
 
 
-https://g.co/kgs/PfNNJC
 
+JavaScript - Wikipediahttps://en.wikipedia.org › wiki › JavaScript
 
 
 
