@@ -23,7 +23,7 @@ TECH STACK 👨‍💻
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d706c6173746963266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/113434018/219009513-24c7dfde-8fce-476f-893a-ac2da7295647.svg)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astitva0011&show_icons=true)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astitva0011&show_icons=true&theme=radical)
