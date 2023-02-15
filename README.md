@@ -26,4 +26,3 @@ TECH STACK 👨‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astitva0011&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astitva0011&repo=github-readme-stats)](https://github.com/astitva0011/github-readme-stats)
