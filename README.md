@@ -14,8 +14,5 @@ TECH STACK 👨‍💻
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astitva0011&show_icons=true&theme=radical)
 
-Hashnode Blog : https://astitva0011.hashnode.dev/what-ux-design-is-worth
-
-
-
+https://camo.githubusercontent.com/1302e66b01fbdafa40a068ac6590ab00faaebbf457ba98e61ce48c017a863aaf/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d415259414e2d434f4445532d53544152267468656d653d6461726b26686964655f626f726465723d66616c7365
 
