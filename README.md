@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/astitva0011" target="blank"><img src="https://img.shields.io/twitter/follow/astitva0011?logo=twitter&style=for-the-badge" alt="astitva0011" /></a> </p>
 
-- ðŸ”­ Iâ€™m currently preparing for #Gsoc24 **Google summer of code**
-
 - ðŸ“« How to reach me **astitv87@gmail.com**
 
 - âš¡ Fun fact **I think I am very choosy**
