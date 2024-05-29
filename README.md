@@ -8,7 +8,7 @@
 ### About Me
 
 - 🔭 I’m currently working on enhancing my full-stack development skills.
-- 🌱 I’m currently learning Java + Dsa .
+- 🌱 I’m currently learning advanced React and Node.js.
 - 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
 - 💬 Ask me about web development, data structures, and algorithms.
 - 📫 How to reach me: astitv87@gmail.com
@@ -61,4 +61,12 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### 🎨 Fun Stuff
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" height="50">
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="50" height="50">
+  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7tHa/giphy.gif" width="50" height="50">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50">
 </p>
