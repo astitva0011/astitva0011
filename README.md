@@ -31,17 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=astitva0011&show_icons=true&theme=radical" alt="astitva's GitHub stats"/>
 </p>
 
-### 📊 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=astitva0011&theme=react-dark" alt="astitva's GitHub Activity Graph"/>
-</p>
-
-### 📌 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/astitva0011/forum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=astitva0011&repo=forum&theme=radical" alt="Forum Repository"/></a>
-  <a href="https://github.com/astitva0011/your-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=astitva0011&repo=your-repo&theme=radical" alt="Another Repository"/></a>
-</p>
-
 ### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
