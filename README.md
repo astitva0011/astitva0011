@@ -31,11 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=astitva0011&show_icons=true&theme=radical" alt="astitva's GitHub stats"/>
 </p>
 
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astitva0011&theme=onedark" alt="astitva's GitHub Trophy"/>
-</p>
-
 ### 📊 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=astitva0011&theme=react-dark" alt="astitva's GitHub Activity Graph"/>
